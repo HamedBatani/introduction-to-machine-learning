@@ -28,6 +28,8 @@ This audit records the supplied archive as of 9 October 2026. It is a file, code
 
 ## Publication changes and provenance
 
+- Reclassified the CHW2 assignment-header cell as Markdown (it was incorrectly marked as code), and removed a stray leading space before CHW3's top-level `computeCost` definition. These two publication repairs change formatting/syntax, not the numerical methods. The original notebooks remain in the archive.
+
 - Added English explanations and question/experiment maps outside the submitted files.
 - Preserved source PDFs without modification.
 - Copied main notebooks with an archival note and relative input/output paths. Saved execution counts and outputs remain historical; no fresh notebook execution is claimed.
