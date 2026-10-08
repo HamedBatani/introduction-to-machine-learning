@@ -1,0 +1,715 @@
+[
+  {
+    "source": "HW/CHW/HW1/HW1_402101339.ipynb",
+    "published": "computer-homework/chw-01/solution.ipynb",
+    "original_sha256": "13fea653f3354308afed22f4477b3b6f5ba463553e13580259af0eae28da3f3e",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": [
+      4,
+      7,
+      9,
+      12,
+      15,
+      18,
+      20
+    ]
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\3d_feature_space.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\3d_feature_space.png",
+    "sha256": "17d9d5414aa8e079f6d7b2b4a135e357914b498700ce57b8ea9905106379d7ad",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\bayesian_network.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\bayesian_network.png",
+    "sha256": "3bb922a600165daa1bf9023eddcc46a54364949b3f56b1f61180529d89e5bdd7",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\decision_surface_speed_depth.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\decision_surface_speed_depth.png",
+    "sha256": "d99f3df91ddbe840f58d06238b6d47ef7fa2c0706cabdc05f7fd5c8749a9b8c6",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\decision_surface_weight_depth.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\decision_surface_weight_depth.png",
+    "sha256": "d247c6fb3ed8e9edd5ca76d00e4d6dd72b92dd157d71d4b5886cdb476d50979e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\decision_surface_weight_speed.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\decision_surface_weight_speed.png",
+    "sha256": "3822de0c2502f26b456022c73b3c6e16774690573f51a781f49d375feb8f72b6",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\fusion_progression.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\fusion_progression.png",
+    "sha256": "d39f6418f4bdd72d7f008a0b68da3437b080e6d16fc7ebe1ee81b5759f2f855c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\hinton_diagrams.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\hinton_diagrams.png",
+    "sha256": "4f38ad135d46c3852c7072a43cdeb64befdf385734811a9811876ab064908868",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\model_comparison.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\model_comparison.png",
+    "sha256": "656180fc203e084f2f991ff9046f62adde6945a05df6ed7f437dbe5fa588a78e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\mse_plot.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\mse_plot.png",
+    "sha256": "a2cbfc6a9164828f9eb02b6369904930e26fa4aa89140db1b612edb92fb944fe",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\mse_vs_samples.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\mse_vs_samples.png",
+    "sha256": "de9a93526130d140df1419961c109aa1f3cfa4fcece564e12c0e56724c78b248",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\sensor_fusion_overview.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\sensor_fusion_overview.png",
+    "sha256": "ffac38cb6deab8468dc3cc8f477897af0c0d977f362dbf36097d05c44e9df57a",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\ResultedPlots\\uncertainty_reduction.png",
+    "published": "computer-homework/chw-01/ResultedPlots\\uncertainty_reduction.png",
+    "sha256": "76b18e2fced370cb208049542406698253437cfc47979517e2c385a027c798ca",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\causal_stock_data.csv",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\causal_stock_data.csv",
+    "sha256": "5a9c025aa893023480a145d16dd26c5d1dddbd32647fa2b772c3a68848f30a4f",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_1.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_1.json",
+    "sha256": "1e10c0643c451076b4c6c2707771c8c57aaf8cd4b822243d72e71bbd501a1b4c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_2.csv",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_2.csv",
+    "sha256": "f196c044d12426a989edc57e07e9a384624b0862b8bb70725b8cc1e2e9fe058d",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_3.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_3.json",
+    "sha256": "d44cc5a70e475cbdd7b9d9f6baae9299e5bc3c43846520d7e9f363ff389dbc3b",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_4_test_full.npz",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_4_test_full.npz",
+    "sha256": "56ee06bb59a229d29443ac292b4055b5a244af17a403957852a60d1ff7669a62",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_4_test_missing.npz",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_4_test_missing.npz",
+    "sha256": "48657c81ba95a38e172f332c3dbf41861e0a892ade6b54f5ef443f4036ad7f96",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_4_train.npz",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_4_train.npz",
+    "sha256": "c4586183446dde1941b7ac2611245fddfcfac9b3801416fbf19e6c07edd55120",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_4_true_params.npz",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_4_true_params.npz",
+    "sha256": "3b4a102ad99fdd0e43f1357d74161aa6a6b35d137b8c3816f6165744f3c0788c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_5_animal_species.csv",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_5_animal_species.csv",
+    "sha256": "4219898851a766b0713ffb03993a457cd75bf1b7212ce4d83b1a24a72d6423dc",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_5_test.csv",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_5_test.csv",
+    "sha256": "b69bcb2a68376eddf00870aad3d86d242e8053e161ce453a4d00440e78a10da7",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p1_6_sensor_data.npz",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p1_6_sensor_data.npz",
+    "sha256": "04d5f238bd2422164a7d7964b97b5d758896740a6d75159696b4e84fd1b4810c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_test.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_test.json",
+    "sha256": "ab6a76742c87bea4148c620d40ad412154e42f5352ed63afd85f1c8981cc0ba5",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_train.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_train.json",
+    "sha256": "9ac0e9074ab4bde67df31c86dc28ce19c39fe53bafb29a6001f4a8dd089a115f",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_vocabulary.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_vocabulary.json",
+    "sha256": "fbdcab8be7c3ce7461aeb62f41c5ae1b9c655cfacff497090430d3ad623d2c20",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\pictures\\bn.png",
+    "published": "computer-homework/chw-01/given_datas\\pictures\\bn.png",
+    "sha256": "f017baacfd0b0e40b7cb8e494c5abd9ae86b88a94001d35a09e076af627fae1b",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\pictures\\decision_tree_surface.png",
+    "published": "computer-homework/chw-01/given_datas\\pictures\\decision_tree_surface.png",
+    "sha256": "8ede3414063217df5b99c1c14a70ff41ce18bf2b5536d1128378ea85c0d6ec07",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\pictures\\markov_network.png",
+    "published": "computer-homework/chw-01/given_datas\\pictures\\markov_network.png",
+    "sha256": "0bf87ef9282b9739f2a5f3052c1e223c2458c391b8643a53d13a483d8f1f9391",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_outputs\\bigram_predictions.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_outputs\\bigram_predictions.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_outputs\\model_check.png",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_outputs\\model_check.png",
+    "sha256": "a4fd5bb50ca9d317bb247be0c4d55f572bb921ddc9daae954822cc630a7b3066",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_outputs\\p3_logprob_comparison.png",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_outputs\\p3_logprob_comparison.png",
+    "sha256": "f377fcc0c683b21a023cb5ea735ff9ea35a7456d9e704d1bdaf2b6f5476d48db",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_outputs\\p3_model_comparison.png",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_outputs\\p3_model_comparison.png",
+    "sha256": "c34c8b033ecce77c160d4c28d2f649a3c94b83f82c0a508159a7138912d8cf41",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW1\\given_datas\\datasets\\p3_outputs\\p3_predictions.json",
+    "published": "computer-homework/chw-01/given_datas\\datasets\\p3_outputs\\p3_predictions.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/HW2/CHW2 (1).ipynb",
+    "published": "computer-homework/chw-02/solution.ipynb",
+    "original_sha256": "e465a140f5a8ef7bee91cccc8721d0ad3507f7b57357b3f5d6a80f11d99118ad",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": [
+      0
+    ]
+  },
+  {
+    "source": "HW\\CHW\\HW2\\Plots\\1_4.png",
+    "published": "computer-homework/chw-02/Plots\\1_4.png",
+    "sha256": "bfb801492e4bd65fd7aeaa4b8a365a181c4a94675b5696d4accf21d347ae7832",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW2\\Plots\\2_4.png",
+    "published": "computer-homework/chw-02/Plots\\2_4.png",
+    "sha256": "adda602f774b6940fea02e167073bc631cd39fe8690b2b1403dd2afdeafca619",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW2\\Plots\\3_4.png",
+    "published": "computer-homework/chw-02/Plots\\3_4.png",
+    "sha256": "721670a5d7b8d82ce01b6086f1dbe851e48e6d95e756eab219acaa5ddc6147bd",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW2\\Plots\\4_4.png",
+    "published": "computer-homework/chw-02/Plots\\4_4.png",
+    "sha256": "f3fefedb0c3cd6e0ab769024773328292ac64b7830c65b833f0d3a188e663f75",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/HW3/IML-CHW3-402101339.ipynb",
+    "published": "computer-homework/chw-03/solution.ipynb",
+    "original_sha256": "0c5a3928ac3cabcb72565108d04d34d78d64ffeb06eeeae907df9e265b796f4a",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": [
+      6,
+      26,
+      60,
+      80,
+      83,
+      86
+    ]
+  },
+  {
+    "source": "HW\\CHW\\HW3\\discriminant_data.csv",
+    "published": "computer-homework/chw-03/discriminant_data.csv",
+    "sha256": "b5d9e4e97d34acbda58dad9167e453920c9397a4cad55069220a378764697faa",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\heteroskedastic_data.csv",
+    "published": "computer-homework/chw-03/heteroskedastic_data.csv",
+    "sha256": "2dc49c3e6a40c43f951101138ec1b242505c9471f450c9cff80345950eb0373f",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\kc_house_data.csv",
+    "published": "computer-homework/chw-03/kc_house_data.csv",
+    "sha256": "d0875baa0251b21d4bdc9d2ae940a4fe0bb6009824f23dd0e2a5b2bf04557b7e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_2_dataset\\X_test.csv",
+    "published": "computer-homework/chw-03/problem_3_2_dataset\\X_test.csv",
+    "sha256": "9578f8359ee3f066ead866be2670755ec9dd08ec6ca2d11e567427b7d2bb9001",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_2_dataset\\X_train.csv",
+    "published": "computer-homework/chw-03/problem_3_2_dataset\\X_train.csv",
+    "sha256": "00e23818eadf3efe20f96886dbd0146a407ddb9285b6373ac9eb3403d4d0653f",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_2_dataset\\y_test.csv",
+    "published": "computer-homework/chw-03/problem_3_2_dataset\\y_test.csv",
+    "sha256": "fba4f78c2e6d042977969dc5d03933f0b37e9cd7144765112f684dcd8655131d",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_2_dataset\\y_train.csv",
+    "published": "computer-homework/chw-03/problem_3_2_dataset\\y_train.csv",
+    "sha256": "2654f2d25411eb2063c9fe549b5b6cb563e00fe86d5a4732195f6d12aac5644c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_3_dataset\\A_matrix.csv",
+    "published": "computer-homework/chw-03/problem_3_3_dataset\\A_matrix.csv",
+    "sha256": "80369dff1cb04d6cec2f00fb77f36fe671cd66f1835b7bf223ad0d8730452109",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_3_dataset\\X_historical.csv",
+    "published": "computer-homework/chw-03/problem_3_3_dataset\\X_historical.csv",
+    "sha256": "a7ba13061de1f19bffc1eaae08d83d12b4b2da27d9b07e3d92821c8a0e05b7af",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_3_dataset\\X_true_batch.csv",
+    "published": "computer-homework/chw-03/problem_3_3_dataset\\X_true_batch.csv",
+    "sha256": "9e3ee58c07ef7354f8b5cbb6e2b3066b8093d101c3ce0cdcb4691c097e1289d7",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\problem_3_3_dataset\\Y_measured_batch.csv",
+    "published": "computer-homework/chw-03/problem_3_3_dataset\\Y_measured_batch.csv",
+    "sha256": "86a51d02370e5f7f7b3708805affa81591e90b564f280f1c063db545a9e29d18",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\auto_fig_1.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\auto_fig_1.png",
+    "sha256": "c29a389912223482953147c2b53cf8aec73b3332e3d3457c7a70495680b2e7d9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\auto_fig_2.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\auto_fig_2.png",
+    "sha256": "7f8bea7b714f8a1fe86ff330ff4a24520e89138ef5bcb3fd8f0f839ab33d40be",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Discriminant_Data___Class_Distribution.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Discriminant_Data___Class_Distribution.png",
+    "sha256": "778cad2eaab148aa18a10623090379925e15d80c1c6d48df97e7bc406f5f9f61",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\figure_1.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\figure_1.png",
+    "sha256": "0efa09140321a928a1524bbd93e6221c925dd3bd2a915f25a71f0bf7c48a734a",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Heteroskedastic_Regression__WLS_with_Input-Depende.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Heteroskedastic_Regression__WLS_with_Input-Depende.png",
+    "sha256": "1a6c6c31e378e414dca5a1f0108772293ce1a36adb852fa036611dd335c5fefb",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Model_Complexity_vs_MSE.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Model_Complexity_vs_MSE.png",
+    "sha256": "d5d647509100b5333e33c1b118dab880948d719c2fdf41b0053d5728befc0360",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Original_Data.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Original_Data.png",
+    "sha256": "7e30a879133913767edcb5921e1f3c6d921dc859ca376f545f7b94e7a722ede9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\plot_001.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\plot_001.png",
+    "sha256": "0efa09140321a928a1524bbd93e6221c925dd3bd2a915f25a71f0bf7c48a734a",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Sample_1.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Sample_1.png",
+    "sha256": "c29a389912223482953147c2b53cf8aec73b3332e3d3457c7a70495680b2e7d9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW3\\some_saved_plots\\Train_Data_Points.png",
+    "published": "computer-homework/chw-03/some_saved_plots\\Train_Data_Points.png",
+    "sha256": "7f8bea7b714f8a1fe86ff330ff4a24520e89138ef5bcb3fd8f0f839ab33d40be",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/HW4/ML_CHW4_402101339.ipynb",
+    "published": "computer-homework/chw-04/solution.ipynb",
+    "original_sha256": "fb00f90a3a134dbf14dd5ba392c568c37987ebfdab20aeb9bca6b9519973cd11",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": []
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\breast_cancer_test.csv",
+    "published": "computer-homework/chw-04/data\\breast_cancer_test.csv",
+    "sha256": "51c74d253e6476b098ec7567d82d2435746ef15fdc81f6e7061e6c7c7c86d26d",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\breast_cancer_train.csv",
+    "published": "computer-homework/chw-04/data\\breast_cancer_train.csv",
+    "sha256": "1e603df51f4576f0d8b0c0c3390ef6af1202d2eda7e924bfcadaeabddaf77e25",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\breast_cancer_val.csv",
+    "published": "computer-homework/chw-04/data\\breast_cancer_val.csv",
+    "sha256": "f0ae42c51d3f1fbb94c0d7c6001d5d6104a20f0330f105be52b6f5758214a412",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\dataset_metadata.json",
+    "published": "computer-homework/chw-04/data\\dataset_metadata.json",
+    "sha256": "17ea59bad27f6f5a63502511207a6b6bcf0faa7c0f33f591bf8a5f4c119b0bde",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\diabetes_gp_grid.csv",
+    "published": "computer-homework/chw-04/data\\diabetes_gp_grid.csv",
+    "sha256": "d7c5cca4f4956db822b0769ec457e0cce5c4bc20b1a290b0fce840a1907186b9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\diabetes_gp_pool.csv",
+    "published": "computer-homework/chw-04/data\\diabetes_gp_pool.csv",
+    "sha256": "7ffd9b48123f000513da124e354959570ba514e13242f442712c79393d80dcaf",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\diabetes_gp_train.csv",
+    "published": "computer-homework/chw-04/data\\diabetes_gp_train.csv",
+    "sha256": "d43136fb59fefea3784b82701f51b0c0315550b44b43a70000663ad380da2f5c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_test.npz",
+    "published": "computer-homework/chw-04/data\\digits_test.npz",
+    "sha256": "18db0e1bc21f4b64dd5029c6b6f8bd5e9e3388cdf3bede23e9b4a80466a37048",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_test_low_contrast.npz",
+    "published": "computer-homework/chw-04/data\\digits_test_low_contrast.npz",
+    "sha256": "04723f3dff040745990865b12288208aad08d725a22b1d81e6eb218c0545c93a",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_test_noisy.npz",
+    "published": "computer-homework/chw-04/data\\digits_test_noisy.npz",
+    "sha256": "d9546ac2368e47a592359bb8fd9889581d3e87f6d052a15d4a468dd1e54dc3e4",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_test_shifted.npz",
+    "published": "computer-homework/chw-04/data\\digits_test_shifted.npz",
+    "sha256": "89ec467eedf23fc2522734adb7be9134973c5a983c49be6a093ebd4a73e2e7f9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_train.npz",
+    "published": "computer-homework/chw-04/data\\digits_train.npz",
+    "sha256": "7b4941bda1f9e00865ad9230a2e757f3edef0f1b3e81fc50a4177d764dd55836",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\digits_val.npz",
+    "published": "computer-homework/chw-04/data\\digits_val.npz",
+    "sha256": "386d62677d20f7d63bbc05fdaf4ba12c45317fbe36949ce779872d34d65f9c60",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\manual_digit_8x8.csv",
+    "published": "computer-homework/chw-04/data\\manual_digit_8x8.csv",
+    "sha256": "fa66cf26899c8f095633cea08962a12eaaa5c39be783b5a66a8b1402f514a5ee",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\wine_test.csv",
+    "published": "computer-homework/chw-04/data\\wine_test.csv",
+    "sha256": "93d67d3af0957e185114330c0dfe256c2d906a85d2edeb3c591eb4d1f3a376d6",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\wine_train.csv",
+    "published": "computer-homework/chw-04/data\\wine_train.csv",
+    "sha256": "ea1a01e6c2479c36eecc5a5d2fa4dc1cfd42161e97f888253f1b97857ef5e4fd",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW4\\data\\wine_val.csv",
+    "published": "computer-homework/chw-04/data\\wine_val.csv",
+    "sha256": "04d57a8f5c98e564fa19339ae5960bfe0d22ec055da0eea45bd58ae0facd98d9",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/HW5/ML_CHW5_402101339Part1.ipynb",
+    "published": "computer-homework/chw-05/part-1-ensembles.ipynb",
+    "original_sha256": "9aadc4ee6a8cad47139f29ba028ac606f6a2f32d6885075f116b0a8ea9a87064",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": [
+      17,
+      21,
+      34
+    ]
+  },
+  {
+    "source": "HW/CHW/HW5/ML_CHW5_402101339_Part2.ipynb",
+    "published": "computer-homework/chw-05/part-2-pca-clustering.ipynb",
+    "original_sha256": "3ffff6dbc5e1799b46c87cf053138125e96261077d9cf5de718018ea44413995",
+    "treatment": "relative paths and archival note; saved outputs retained",
+    "edited_original_cells": [
+      14,
+      23,
+      27,
+      32,
+      37,
+      40,
+      42
+    ]
+  },
+  {
+    "source": "HW\\CHW\\HW5\\csv\\Out_3.csv",
+    "published": "computer-homework/chw-05/csv\\Out_3.csv",
+    "sha256": "b379a8a5876b10e01d09c78cd383b6b4ce95f6df0e975da078a6a7cf8a459f7a",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\csv\\Out_4.csv",
+    "published": "computer-homework/chw-05/csv\\Out_4.csv",
+    "sha256": "6cc040bfda7283b75dd0b68807c58f76a419c4007b68ad8243e735631a9af1ca",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\csv\\Out_9.csv",
+    "published": "computer-homework/chw-05/csv\\Out_9.csv",
+    "sha256": "80d84c72f8a716b608a1f2ed2061fb5e41e18afbf20780eba645afe762e946dc",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\correlation_matrix.png",
+    "published": "computer-homework/chw-05/Plots\\correlation_matrix.png",
+    "sha256": "2ed8051bdf9e413cba75c4ef8c0bcc46ab86ad1c4554a82b864314256ed4dcda",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\cumulative_variance.png",
+    "published": "computer-homework/chw-05/Plots\\cumulative_variance.png",
+    "sha256": "d20e13368325a524f1abc768fb5a51d6d0562d2608de3fb178a2568a72c1e2bd",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\dendrogram.png",
+    "published": "computer-homework/chw-05/Plots\\dendrogram.png",
+    "sha256": "6aad04792c6133c12e9b9cbf51f63355595496f69a27175c8dec416dc21311f4",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\early_stopping_validation_error.png",
+    "published": "computer-homework/chw-05/Plots\\early_stopping_validation_error.png",
+    "sha256": "32acc8c199a83324eba07d8fddb5ea5f91081948df638e649614fd97258e0cdf",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\elbow_method.png",
+    "published": "computer-homework/chw-05/Plots\\elbow_method.png",
+    "sha256": "9cc08bf357fb9c44b0264a74d2328887a05b7f4e9cb9bcd6222fb6d0b5aa76ec",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\hier_pairplot_clusters.png",
+    "published": "computer-homework/chw-05/Plots\\hier_pairplot_clusters.png",
+    "sha256": "af3be3a84ff9d5260193aa71a83d8415621e8f0bfd7160dcc88bd0a81df46eb8",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\pca_correlation_matrix.png",
+    "published": "computer-homework/chw-05/Plots\\pca_correlation_matrix.png",
+    "sha256": "bd65e1125df51db0543ddc558f6c5c40786846df82aadf37f1221c96cdd272b4",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\pca_pairplot_clusters.png",
+    "published": "computer-homework/chw-05/Plots\\pca_pairplot_clusters.png",
+    "sha256": "3e427da323bd38d9a9789591248910502adde64ddaa8132cb1f2fe139d4857a7",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW\\CHW\\HW5\\Plots\\weighted_error_vs_iteration.png",
+    "published": "computer-homework/chw-05/Plots\\weighted_error_vs_iteration.png",
+    "sha256": "e515d3a96d6163a789f5ee51d70a78437ced0e761f1be8cae3d1ccb72277f191",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/IML_CHW5/dataset.csv",
+    "published": "computer-homework/chw-05/dataset.csv",
+    "sha256": "29eea6389837c40fd760c927b5782563edeff55a37824598489716bdb3563be1",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/IML_CHW5/heart_disease.csv",
+    "published": "computer-homework/chw-05/heart_disease.csv",
+    "sha256": "ddb2996b2f4db2e00aad13f4518200179ff69f79093838e3c21ffa672ebec0f1",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/IML_CHW5/pca_output.csv",
+    "published": "computer-homework/chw-05/pca_output.csv",
+    "sha256": "4ff646a8445f79ca96289d2bbb4897a22ff2bc3174ce463f5eb341284d5099ff",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/CHW/IML_CHW5/sharif.png",
+    "published": "computer-homework/chw-05/sharif.png",
+    "sha256": "063c1f3ee0bc889923077c9377641037750a053ce04ae167ed654276a099361e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW1/THW1.pdf",
+    "published": "theoretical-homework/thw-01/questions.pdf",
+    "sha256": "4a81b1021082130ddcca19b2bc89b9bc4f1d61cce098405ceb2b7a44ccc424f8",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW1/ML_THW1_402101339 (1).PDF",
+    "published": "theoretical-homework/thw-01/solutions.pdf",
+    "sha256": "a7c3e74aa513b2ae91887e73ddf362f3dbb4c37ebea6c9b563984cb1597ab35e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW2/THW2 (3).pdf",
+    "published": "theoretical-homework/thw-02/questions.pdf",
+    "sha256": "7cb438318eef90a5815f33db3ff2150df44371ab9b61931c9ebbbf1ae469cf3c",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW2/ML_THW2_402101339 (1).PDF",
+    "published": "theoretical-homework/thw-02/solutions.pdf",
+    "sha256": "1c6c00fce2878f2fc70f6e244685f92393a5b8dc94a28102e109eec23f4925f4",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW3/THW3.pdf",
+    "published": "theoretical-homework/thw-03/questions.pdf",
+    "sha256": "3013ad118bd8d37241dfc418db117a9cf8cbefab7f2f79fbf33b8c2b1e966119",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW4/THW4.pdf",
+    "published": "theoretical-homework/thw-04/questions.pdf",
+    "sha256": "c7e6afebd80dc1792168056e16876024269f9cd27f7179494c1eb64be5cc913e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW4/ML_THW4_402101339.PDF",
+    "published": "theoretical-homework/thw-04/solutions.pdf",
+    "sha256": "53adf89a099c5ce18cb73fb8efa6a329a1372baff5f2f71556e91a5383be808b",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW5/THW5.pdf",
+    "published": "theoretical-homework/thw-05/questions.pdf",
+    "sha256": "52bd075eda4bedca50a922ad3994ea5ac8ccd298d78f2e2ec42291c15463133f",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "HW/THW/HW5/ML_THW5_402101339.PDF",
+    "published": "theoretical-homework/thw-05/solutions.pdf",
+    "sha256": "bd624e5a7b4a5626ccb9d8350ae00be76b887cd779142940963152a0b7afd85e",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/Project_IML_1405.pdf",
+    "published": "projects/ecg-anomaly-detection/project-brief.pdf",
+    "sha256": "01891cb01f31bc6d11bf9d0abd1556fab8331d053b1969a087e83e3129423aed",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/ML_Project_402101339_402102079/ML_Project_Report_Final.pdf",
+    "published": "projects/ecg-anomaly-detection/report.pdf",
+    "sha256": "0d2c923ab1256f8cc0ffc81ed83045cfcf8541f176f60edf610d8509e8722dbe",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/ML_Project_402101339_402102079/ML_Project_Simulation.ipynb",
+    "published": "projects/ecg-anomaly-detection/simulation.ipynb",
+    "sha256": "2a7513bdd977bf1da564aa9189ab89ac981760c442e127688d3e1d7a0fa50820",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/ML_Project_402101339_402102079/data/ECG5000/files/ECG5000_TRAIN.txt",
+    "published": "projects/ecg-anomaly-detection/data/ECG5000/files/ECG5000_TRAIN.txt",
+    "sha256": "0d96aff193311a6dc6111bf0dbd2f7d2313987fbf7a1da4a383d92563876057b",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/ML_Project_402101339_402102079/data/ECG5000/files/ECG5000_TEST.txt",
+    "published": "projects/ecg-anomaly-detection/data/ECG5000/files/ECG5000_TEST.txt",
+    "sha256": "baf4ad57d28daa5e79050edd4185968181762bc83d45a757753015b4ba8ab295",
+    "treatment": "unchanged"
+  },
+  {
+    "source": "projects/ML_Project_402101339_402102079/data/ECG5000/README.md",
+    "published": "projects/ecg-anomaly-detection/data/ECG5000/README.md",
+    "sha256": "af0e5ac78ff078f8a5aa05f9c1ac762118c364b79f49f541273de44b91525ec1",
+    "treatment": "unchanged"
+  }
+]
