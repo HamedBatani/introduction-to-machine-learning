@@ -1,0 +1,45 @@
+{
+  "datasets": {
+    "breast_cancer": {
+      "source": "scikit-learn load_breast_cancer; Wisconsin Diagnostic Breast Cancer dataset",
+      "task": "binary classification for MLP; target=1 means malignant/high risk",
+      "files": [
+        "breast_cancer_train.csv",
+        "breast_cancer_val.csv",
+        "breast_cancer_test.csv"
+      ],
+      "n_features": 30
+    },
+    "digits": {
+      "source": "scikit-learn load_digits; handwritten digits 8x8 images",
+      "task": "10-class image classification for CNN",
+      "files": [
+        "digits_train.npz",
+        "digits_val.npz",
+        "digits_test.npz",
+        "digits_test_shifted.npz",
+        "digits_test_noisy.npz",
+        "digits_test_low_contrast.npz"
+      ]
+    },
+    "wine": {
+      "source": "scikit-learn load_wine; Wine recognition dataset",
+      "task": "3-class classification for kernel methods and SVM",
+      "files": [
+        "wine_train.csv",
+        "wine_val.csv",
+        "wine_test.csv"
+      ],
+      "n_features": 13
+    },
+    "diabetes_gp": {
+      "source": "scikit-learn load_diabetes; diabetes progression dataset",
+      "task": "one-dimensional Gaussian Process regression using BMI feature",
+      "files": [
+        "diabetes_gp_train.csv",
+        "diabetes_gp_pool.csv",
+        "diabetes_gp_grid.csv"
+      ]
+    }
+  }
+}
